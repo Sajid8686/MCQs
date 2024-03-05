@@ -14,3 +14,13 @@ for(let i=0; i<data.length; i++){
     }
 }
 
+
+// import prompt from "prompt-sync";
+// let input = prompt()
+
+// let marks = []
+
+// for(let i=0; i<4; i++){
+//     marks[i]= parseInt(input("Enter your Marks: "))
+// }
+// console.log(marks)
